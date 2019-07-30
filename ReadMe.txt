@@ -6,4 +6,4 @@
    -Power up's
    
    Całość ładnie oprawiona graficznie.
-   
+   Dołączony plik jar aby łatwiej i szybciej móc cieszyć się rozgrywką.
